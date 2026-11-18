@@ -8,3 +8,6 @@ I don't know
 - Animals 🐶🐱
 - Anime (e.gs., Pokémon, One Piece, Bocchi the Rock)
 - Sleeping
+
+### Midterm Projects:
+N/A
