@@ -16,4 +16,6 @@ A sleepy person who loves sleeping. I'm introverted, but I might act as an extro
 - Moneyless
 
 ### Midterm Projects:
-N/A
+[Midterm Labtask 1](https://github.com/Cuzyroxie/java_projects/blob/main/Midterm%20Tasks/Gomez_Maxene_Yvone_Santiago_Midterm_Labtask1.pdf)
+[Miterm Labtask 2]
+
