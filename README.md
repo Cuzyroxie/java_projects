@@ -1,13 +1,19 @@
 # java_projects ✨
-welcome welcome! Pero bat ka andito kung di ikaw si ma'am
+welcome welcome! Pero bat ka andito kung di ikaw si ma'am 🤔
 
 ## ⭐ About Me
-I don't know
+A sleepy person who loves sleeping. I'm introverted, but I might act as an extrovert to a quieter introvert, depends.
 
-## Area of Interest:
+## What I like:
+- Eating and Sleeping
 - Animals 🐶🐱
 - Anime (e.gs., Pokémon, One Piece, Bocchi the Rock)
-- Sleeping
+- Manga/Manhwa/Manhua
+
+## What I dislike:
+- Horror jumpscares 
+- Chocolate 🍫
+- Moneyless
 
 ### Midterm Projects:
 N/A
