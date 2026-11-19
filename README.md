@@ -17,5 +17,6 @@ A sleepy person who loves sleeping. I'm introverted, but I might act as an extro
 
 ### Midterm Projects:
 [Midterm Labtask 1](https://github.com/Cuzyroxie/java_projects/blob/main/Midterm%20Tasks/Gomez_Maxene_Yvone_Santiago_Midterm_Labtask1.pdf)
-[Miterm Labtask 2]
+
+[Miterm Labtask 2](https://github.com/Cuzyroxie/java_projects/blob/main/Midterm%20Tasks/Gomez_Maxene_Yvone_Santiago_Midterm_Labtask2.pdf)
 
